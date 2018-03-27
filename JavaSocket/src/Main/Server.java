@@ -193,7 +193,7 @@ public class Server extends javax.swing.JFrame {
         getContentPane().add(jPanel3);
         jPanel3.setBounds(-1, 92, 600, 220);
 
-        setBounds(0, 0, 615, 440);
+        setBounds(750, 0, 607, 433);
     }// </editor-fold>//GEN-END:initComponents
 
     private void msg_textActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_msg_textActionPerformed

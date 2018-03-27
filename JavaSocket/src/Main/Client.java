@@ -320,7 +320,7 @@ public class Client extends javax.swing.JFrame {
         getContentPane().add(jPanel2);
         jPanel2.setBounds(0, 310, 710, 90);
 
-        setBounds(640, 0, 727, 446);
+        setBounds(0, 0, 714, 431);
     }// </editor-fold>//GEN-END:initComponents
 
     private void msg_sendActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_msg_sendActionPerformed
